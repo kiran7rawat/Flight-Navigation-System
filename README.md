@@ -110,4 +110,4 @@ The system calculates risk levels based on the following weather conditions:
 - **Low Risk**:
   - All other conditions
 
-**Live Demo**: https://flightnavigationtk.netlify.app/
+- [Live Demo](https://flightnavigationtk.netlify.app/)
